@@ -1,3 +1,3 @@
 /*
   Access-Control-Allow-Origin: *
-  Content-Security-Policy: default-src *; script-src 'unsafe-inline'; img-src *; style-src-elem *; style-src *; connect-src *;
+  Content-Security-Policy: default-src *; script-src 'unsafe-inline'; img-src *; style-src-elem 'unsafe-inline'; style-src 'unsafe-inline'; connect-src *;
