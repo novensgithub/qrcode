@@ -1,2 +1,2 @@
 /*
-  Content-Security-Policy: default-src 'unsafe-inline';
+  Content-Security-Policy: default-src 'unsafe-inline' img-src 'none' style-src-elem 'none'
